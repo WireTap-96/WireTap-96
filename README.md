@@ -1,16 +1,30 @@
-## Hi there 👋
+# Johnny Kennedy
 
-<!--
-**WireTap-96/WireTap-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ethical security • Defensive tooling • Authorized practice**
 
-Here are some ideas to get you started:
+I’m building a practical portfolio around ethical security and defensive engineering. I value scoped work, clear documentation, reproducible checks, and responsible handling of sensitive data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- [HeaderGuard](https://github.com/WireTap-96/headerguard) — reviews saved HTTP security-header data locally; it does not contact hosts.
+- [AuthTrail](https://github.com/WireTap-96/authtrail) — summarizes local OpenSSH authentication logs for human review; it takes no automated action.
+
+## Current focus
+
+Python command-line tools, security configuration review, authentication-log analysis, unit tests, and CI.
+
+## Progress
+
+Two documented, AI-assisted defensive starter projects are published. Next steps: review the implementations, add edge-case tests, and document learning from authorized labs or systems.
+
+## Ethical practice
+
+I work only with systems and data I own or have explicit authorization to assess. I favor responsible disclosure and careful treatment of logs and other sensitive information.
+
+## Portfolio transparency
+
+These initial project versions were created with AI assistance. I’m using them as a foundation for hands-on review and documented improvements; each repository identifies its scope and limitations.
+
+## Resume
+
+Employment history, education, and certifications will be added after the details are verified.
