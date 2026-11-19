@@ -4,28 +4,29 @@
 
 I’m building a practical portfolio around ethical security and defensive engineering. I value scoped work, clear documentation, reproducible checks, and responsible handling of sensitive data.
 
-## Featured projects
+## Active home-network tools
 
-- [HeaderGuard](https://github.com/WireTap-96/headerguard) — reviews saved HTTP security-header data locally; it does not contact hosts.
-- [AuthTrail](https://github.com/WireTap-96/authtrail) — summarizes local OpenSSH authentication logs for human review; it takes no automated action.
-- [ScopeSieve](https://github.com/WireTap-96/scope-sieve) — checks a local authorized-asset inventory for scope hygiene; no discovery or DNS lookups.
-- [EnumLens](https://github.com/WireTap-96/enumlens) — summarizes saved lab enumeration XML offline; it does not scan.
+- [HomePortMap](https://github.com/WireTap-96/homeportmap) — low-impact TCP inventory for RFC1918 home subnets, with a fixed port list and strict size/concurrency limits.
+- [HomeConfigCheck](https://github.com/WireTap-96/homeconfigcheck) — one HTTP `HEAD` check for a private LAN device; no crawling or redirect following.
+
+## Supporting tools
+
+- [ScopeSieve](https://github.com/WireTap-96/scope-sieve) — validates a local authorized-asset inventory; no discovery or DNS lookups.
+- [EnumLens](https://github.com/WireTap-96/enumlens) — summarizes saved lab enumeration XML offline.
+- [HeaderGuard](https://github.com/WireTap-96/headerguard) — reviews saved HTTP security-header data locally.
+- [AuthTrail](https://github.com/WireTap-96/authtrail) — summarizes local OpenSSH authentication logs for human review.
 
 ## Current focus
 
-Python command-line tools, security configuration review, authentication-log analysis, authorized scope management, offline report parsing, tests, and documentation.
-
-## Progress
-
-Four documented, AI-assisted defensive starter projects are published. Next steps: review the implementations, add edge-case tests, and document learning from authorized labs or systems.
+Python command-line tools, home-network inventory, security configuration review, log analysis, authorized scope management, tests, and documentation.
 
 ## Ethical practice
 
-I work only with systems and data I own or have explicit authorization to assess. I favor responsible disclosure and careful treatment of logs, inventories, and assessment reports.
+I work only with systems and data I own or have explicit authorization to assess. The active tools are limited to private IPv4 targets and have no exploit, brute-force, stealth, or public-IP scanning features.
 
 ## Portfolio transparency
 
-These initial project versions were created with AI assistance. I’m using them as a foundation for hands-on review and documented improvements; each repository identifies its scope and limitations.
+These starter implementations were created with AI assistance. I’m using them as a foundation for hands-on review and documented improvements; each repository explains its scope and limitations.
 
 ## Resume
 
