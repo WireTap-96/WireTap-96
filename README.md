@@ -1,8 +1,8 @@
 # Johnny Kennedy
 
-**Cybersecurity student | Ethical security | Defensive Python tooling**
+**Cybersecurity student | Ethical Hacking | Defensive & Offensive tooling**
 
-I build small, documented tools for authorized security learning and defensive & Offensive review. I value clear scope, reproducible checks, and careful handling of assessment data. My projects are AI-assisted; I review the code, test it, and document what the evidence does—and does not—show.
+I build small, documented tools for authorized security learning and defensive & offensive review. I value clear scope, reproducible checks, and careful handling of assessment data. My projects are AI-assisted; I review the code, test it, and document what the evidence does—and does not—show.
 
 ## Network and Wi-Fi projects
 
@@ -10,13 +10,13 @@ I build small, documented tools for authorized security learning and defensive &
 - [**HomePortMap**](https://github.com/WireTap-96/homeportmap) — fixed-port TCP inventory for authorized private home subnets, with tight host and concurrency limits.
 - [**HomeConfigCheck**](https://github.com/WireTap-96/homeconfigcheck) — one carefully scoped HTTP `HEAD` request to review selected response headers; no crawling or redirects.
 
-## Supporting tools
+## Some of the Supporting tools
 
 - [**ScopeSieve**](https://github.com/WireTap-96/scope-sieve) — local validation of authorized assessment inventories.
 - [**EnumLens**](https://github.com/WireTap-96/enumlens) — offline parsing of saved Nmap XML output.
 - [**HeaderGuard**](https://github.com/WireTap-96/headerguard) — offline review of saved HTTP response headers.
 - [**AuthTrail**](https://github.com/WireTap-96/authtrail) — local summaries of OpenSSH authentication logs for defensive review.
-
+- [**And-More**]
 ## Ethical practice and verification
 
 I work only on systems and networks I own or am explicitly authorized to assess. I avoid claims about employment, certifications, findings, or measured impact that I cannot substantiate. The active network utilities enforce private IPv4 scope and do not provide exploit, brute-force, stealth, or public-target modes. WiFiAudit reports advertised security only; it does not prove a network is secure or insecure.
