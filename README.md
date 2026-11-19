@@ -1,33 +1,28 @@
 # Johnny Kennedy
 
-**Ethical security • Defensive tooling • Authorized practice**
+**Cybersecurity student | Ethical security | Defensive Python tooling**
 
-I’m building a practical portfolio around ethical security and defensive engineering. I value scoped work, clear documentation, reproducible checks, and responsible handling of sensitive data.
+I build small, documented tools for authorized security learning and defensive review. I value clear scope, reproducible checks, and careful handling of assessment data. My projects are AI-assisted; I review the code, test it, and document what the evidence does—and does not—show.
 
-## Active home-network tools
+## Network and Wi-Fi projects
 
-- [HomePortMap](https://github.com/WireTap-96/homeportmap) — low-impact TCP inventory for RFC1918 home subnets, with a fixed port list and strict size/concurrency limits.
-- [HomeConfigCheck](https://github.com/WireTap-96/homeconfigcheck) — one HTTP `HEAD` check for a private LAN device; no crawling or redirect following.
+- [**WireTap Security Toolkit**](https://github.com/WireTap-96/wiretap-security-toolkit) — bounded private-network discovery, limited service metadata, and a cached Wi-Fi security survey. Its local tests use loopback and synthetic Wi-Fi fixtures; no external network test is claimed. WiFiAudit does not capture or crack credentials or inject/deauthenticate frames.
+- [**HomePortMap**](https://github.com/WireTap-96/homeportmap) — fixed-port TCP inventory for authorized private home subnets, with tight host and concurrency limits.
+- [**HomeConfigCheck**](https://github.com/WireTap-96/homeconfigcheck) — one carefully scoped HTTP `HEAD` request to review selected response headers; no crawling or redirects.
 
 ## Supporting tools
 
-- [ScopeSieve](https://github.com/WireTap-96/scope-sieve) — validates a local authorized-asset inventory; no discovery or DNS lookups.
-- [EnumLens](https://github.com/WireTap-96/enumlens) — summarizes saved lab enumeration XML offline.
-- [HeaderGuard](https://github.com/WireTap-96/headerguard) — reviews saved HTTP security-header data locally.
-- [AuthTrail](https://github.com/WireTap-96/authtrail) — summarizes local OpenSSH authentication logs for human review.
+- [**ScopeSieve**](https://github.com/WireTap-96/scope-sieve) — local validation of authorized assessment inventories.
+- [**EnumLens**](https://github.com/WireTap-96/enumlens) — offline parsing of saved Nmap XML output.
+- [**HeaderGuard**](https://github.com/WireTap-96/headerguard) — offline review of saved HTTP response headers.
+- [**AuthTrail**](https://github.com/WireTap-96/authtrail) — local summaries of OpenSSH authentication logs for defensive review.
 
-## Current focus
+## Ethical practice and verification
 
-Python command-line tools, home-network inventory, security configuration review, log analysis, authorized scope management, tests, and documentation.
+I work only on systems and networks I own or am explicitly authorized to assess. I avoid claims about employment, certifications, findings, or measured impact that I cannot substantiate. The active network utilities enforce private IPv4 scope and do not provide exploit, brute-force, stealth, or public-target modes. WiFiAudit reports advertised security only; it does not prove a network is secure or insecure.
 
-## Ethical practice
+The code in these projects is AI-assisted starter work. I am responsible for reviewing, testing, documenting, and improving it; passing unit tests is not a complete security review.
 
-I work only with systems and data I own or have explicit authorization to assess. The active tools are limited to private IPv4 targets and have no exploit, brute-force, stealth, or public-IP scanning features.
+## Background
 
-## Portfolio transparency
-
-These starter implementations were created with AI assistance. I’m using them as a foundation for hands-on review and documented improvements; each repository explains its scope and limitations.
-
-## Resume
-
-Employment history, education, and certifications will be added after the details are verified.
+Resume, certification, and work-history details will be added only after they are verified.
