@@ -2,7 +2,7 @@
 
 **Cybersecurity student | Ethical security | Defensive Python tooling**
 
-I build small, documented tools for authorized security learning and defensive review. I value clear scope, reproducible checks, and careful handling of assessment data. My projects are AI-assisted; I review the code, test it, and document what the evidence does—and does not—show.
+I build small, documented tools for authorized security learning and defensive & Offensive review. I value clear scope, reproducible checks, and careful handling of assessment data. My projects are AI-assisted; I review the code, test it, and document what the evidence does—and does not—show.
 
 ## Network and Wi-Fi projects
 
@@ -25,4 +25,4 @@ The code in these projects is AI-assisted starter work. I am responsible for rev
 
 ## Background
 
-Resume, certification, and work-history details will be added only after they are verified.
+Resume, certification, and work-history will be added soon!
